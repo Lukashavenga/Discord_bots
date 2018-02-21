@@ -43,7 +43,7 @@ bot.on('guildMemberAdd', member => {
     // Do nothing if the channel wasn't found on this server
     if (!channel) return;
     // Send the message, mentioning the member
-    channel.send(`Welcome to The Doghouse, ${member} :wolf:`);
+    channel.send(`Welcome to The DOGHOUSE, ${member}! :wolf:  --- Please consider saying HI! and adding your real name to the #name-log , also check out #game-roles to add the games you like to play to your account, May all your hits crit! :sunglasses: `);
     
     /** If error occured **/
     // Send the message to a designated channel on a server:
