@@ -3,7 +3,7 @@ const bot = new Discord.Client();
 
 
 const robot = 'New User Bot';
-const newUserRole = 'pups';
+const newUserRole = 'little pups';
 
 // Always remove
 const token = '';
